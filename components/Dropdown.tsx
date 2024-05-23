@@ -49,7 +49,6 @@ const Dropdown: React.FC<DropdownProps> = ({ title, items }) => {
             <h3 className="card-title"></h3>
 
       
-
            </div>
 
             <div>
